@@ -1,2 +1,3 @@
 Welcome
-document.body.innerHTML += '<a href="inventory.js">Go to Inventory</a>';
+document.body.innerHTML = 'Welcome <a href="inventory.js">Go to Inventory</a>';
+
